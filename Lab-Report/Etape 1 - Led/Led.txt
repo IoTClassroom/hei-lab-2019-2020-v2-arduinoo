@@ -1,0 +1,1 @@
+La led verte s'allume et s'éteint toutes les secondes (En fonction du délais qu'on a mis dans la fonction delay())
